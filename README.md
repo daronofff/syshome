@@ -23,7 +23,7 @@ SysHome народився з бажання зробити дім по-спра
 
 ## Підтримка та контакти
 Більше про проєкт та гайди ви можете знайти на моєму сайті: [syshome.com.ua](https://syshome.com.ua)
-Зв’язатися зі мною: [Telegram @syshome_admin](https://t.me/syshome_admin)
+Зв’язатися зі мною: [Telegram @syshome_admin](https://t.me/haker2121)
 
 ---
 *Створено з любов'ю до автоматизації. Якщо проєкт був вам корисний, підтримати розвиток можна тут: [Donatello](https://donatello.to/syshome)*
